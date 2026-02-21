@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+beautifulsoup4
+lxml
+easyocr
+Pillow
+reportlab
+scikit-learn
+nltk
+matplotlib
+seaborn
+torch
+torchvision
